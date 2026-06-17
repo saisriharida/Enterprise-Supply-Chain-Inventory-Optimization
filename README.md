@@ -104,9 +104,34 @@ Enterprise-Supply-Chain-Inventory-Optimization/
 ├── README.md
 └── .gitignore
 ```
+ 📊 Key Insights & Visualizations
 
+ Top Purchased Products
+![Top Products](Screenshots/top_products.png.png)
+
+ Department-wise Purchases
+![Department Purchases](Screenshots/department_purchases.png.png)
+
+ Top Aisles by Purchase Volume
+![Top Aisles](Screenshots/top_aisles.png.png)
+
+ Orders by Hour of Day
+![Orders by Hour](Screenshots/orders_by_hour.png.png)
+
+ Most Reordered Products
+![Reordered Products](Screenshots/top_reordered_products.png.png)
+
+ Reorder Rate by Department
+![Reorder Rate](Screenshots/reorder_rate_department.png.png)
 ---
+ 🔍 Key Findings
 
+- Banana and Organic Banana are the most purchased products across all orders.
+- Produce is the highest-performing department by purchase volume.
+- Fresh Fruits and Fresh Vegetables dominate aisle-level demand.
+- Customer orders peak between 10 AM and 4 PM, indicating high daytime activity.
+- Several products show strong reorder rates, highlighting customer loyalty and recurring demand.
+- Department-level reorder rates help identify stable inventory categories for stock planning.
  🚀 Project Status
 
 - ✅ Dataset Imported
